@@ -1,6 +1,8 @@
 # NgrokTunnel
 Esta herramienta ah sido creado para automatizar la descarga de ngrok en Linux de forma correcta.
 
+![ngrok-script-home](https://user-images.githubusercontent.com/76820660/156478298-99afce2a-d0bb-47dc-aa0f-f5060a88ff5a.png)
+
 # Instalación en Linux 
 
 $ sudo apt-get update
