@@ -21,7 +21,7 @@ $ cd NgrokTunnel
 
 $ chmod +x install.sh
 
-$ bash install.sh
+$ sudo bash install.sh
 
 # Instalación en Termux
 
