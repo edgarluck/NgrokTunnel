@@ -3,6 +3,26 @@ Esta herramienta ah sido creado para automatizar la descarga de ngrok en Linux d
 
 ![ngrok-script-home](https://user-images.githubusercontent.com/76820660/156478298-99afce2a-d0bb-47dc-aa0f-f5060a88ff5a.png)
 
+# Error Solucionado
+
+Para los que presentan el siguiente error , como en las imágenes :
+
+![error 1](https://github.com/edgarluck/NgrokTunnel/blob/main/img/Screenshot_20220527-203412.png)
+
+![error 2](https://github.com/edgarluck/NgrokTunnel/blob/main/img/Screenshot_20220527-203435.png)
+
+Instala esto y ejecuta:
+
+$ pkg install proot -y
+
+$ pkg install resolv-conf -y
+
+$ termux-chroot ngrok tcp puerto
+
+En puerto agregas tu número y en el tcp , lo puedes cambiar también , depende de usted.
+
+Listo ;)
+
 # Instalación en Linux 
 
 $ sudo apt-get update
