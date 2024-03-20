@@ -1,5 +1,5 @@
 # NgrokTunnel
-Esta herramienta ah sido creado para automatizar la descarga de ngrok en Linux de forma correcta.
+NgrokTunnel es una herramienta diseñada para simplificar la instalación de Ngrok en sistemas Linux, garantizando un proceso automatizado y sin errores.
 
 ![ngrok-script-home](https://user-images.githubusercontent.com/76820660/156478298-99afce2a-d0bb-47dc-aa0f-f5060a88ff5a.png)
 
